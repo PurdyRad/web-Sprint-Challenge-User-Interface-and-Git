@@ -153,7 +153,7 @@ nav a{
     margin-bottom:2%;
     line-height:150%;
 }
-.containerz{
+.container1{
     border-top:dotted;
     border-bottom:dotted;
     padding:10%;
@@ -163,8 +163,29 @@ nav a{
     align-content:space-evenly;
 
 }
+.container2{
+    border-top:dotted;
+    border-bottom:dotted;
+    
+    display:flex;
+    
+    justify-content:space-evenly;
+    align-content:space-evenly;
+
+}
+.button{
+    padding:2% 4% 2% 4%;
+    background:white;
+    border-radius:10%;
+}
+.bodi{
+    max-width:50%;
+}
+.bodi2{
+    max-width:50%;
+}
 .ender{
-    margin:6% 0 6% 0;
+    margin:5% 13% 5% 13%;
     line-height:150%;
 }
 ol, ul {
